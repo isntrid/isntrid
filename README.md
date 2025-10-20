@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ridn123321@gmail.com // isntrid on discord**
 
-- ⚡ Fun fact **I'm ambidextrous, play lots of games and really enjoy making stuff (via code) and problem solving (so satisfying)**
+- ⚡ Fun fact **I'm ambidextrous, play lots of games and really enjoy making stuff (via code) and problem solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
