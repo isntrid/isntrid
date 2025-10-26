@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=isntrid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-- 🔭 Currently working on **personal projects & learning front-end**  
+- 🔭 Currently working on **customer projects**  
 - 🌱 Passionate about **coding, problem-solving, and making things happen**  
 - 👯 Open to **collaborations and interesting projects**  
 - 💬 Ask me about **coding, gaming, or just random stuff**  
