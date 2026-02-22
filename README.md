@@ -9,7 +9,6 @@
 - 🌱 Passionate about **coding, problem-solving, and making things happen**  
 - 👯 Open to **collaborations and interesting projects**  
 - 💬 Ask me about **coding, gaming, or just random stuff**  
-- 📫 Reach me at **ridn123321@gmail.com**
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
