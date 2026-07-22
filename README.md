@@ -1,1 +1,1 @@
-![Terminal Stats](terminal.svg?v=2)
+![Terminal Stats](terminal.svg?)
