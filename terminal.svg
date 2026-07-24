@@ -8,32 +8,31 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
-text, tspan {white-space: pre;}
+.prompt {fill: #1eff00; font-weight: bold;}
+.path {fill: #1eff00; font-weight: bold;}
+.command {fill: #1eff00;}
+.key {fill: #107c10;}
+.value {fill: #1eff00;}
+.cc {fill: #0b450b;}
+text, tspan {white-space: pre; text-shadow: 0 0 8px rgba(30,255,0,0.6);}
 </style>
-<rect width="800px" height="460px" fill="#161b22" rx="15"/>
-<text x="30" y="40" fill="#c9d1d9">
-<tspan x="30" y="40">isntrid @ github</tspan> -————————————————————————————————————————————————————————————-—-
-<tspan x="30" y="60" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">Windows 11, Linux, MacOS</tspan>
-<tspan x="30" y="80" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">24/7</tspan>
-<tspan x="30" y="100" class="cc">. </tspan><tspan class="key">Title</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">abysmal programmer</tspan>
-<tspan x="30" y="120" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">VSCode, Rider, Pycharm</tspan>
-<tspan x="30" y="140" class="cc">. </tspan>
-<tspan x="30" y="160" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">C#, Python, JavaScript</tspan>
-<tspan x="30" y="180" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Markup</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">HTML, CSS</tspan>
-<tspan x="30" y="200" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Learning</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Rust, C++</tspan>
-<tspan x="30" y="220" class="cc">. </tspan>
-<tspan x="30" y="240" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Jailbreaking, gaming, coding</tspan>
-<tspan x="30" y="260" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">PC Building, LTT, Graphics cards </tspan>
-<tspan x="30" y="300">- Contact</tspan> -—————————————————————————————————————————————————————————————————-—-
-<tspan x="30" y="320" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">@isntrid</tspan>
-<tspan x="30" y="340" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">ridn123321@gmail.com</tspan>
-<tspan x="30" y="380">- GitHub Stats</tspan> -————————————————————————————————————————————————————————————-—-
-<tspan x="30" y="400" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">23</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">190</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">3</tspan>
-<tspan x="30" y="420" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">420</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">5</tspan>
+<rect width="800px" height="460px" fill="#000000" rx="6"/>
+<text x="20" y="35" fill="#1eff00">
+<tspan class="prompt">isntrid@linux</tspan>:<tspan class="path">~</tspan>$ <tspan class="command">neofetch --stdout</tspan>
+<tspan x="20" y="65" class="key">OS</tspan><tspan class="cc"> ........................................ </tspan><tspan class="value">Windows 11, Linux, MacOS</tspan>
+<tspan x="20" y="85" class="key">Uptime</tspan><tspan class="cc"> ................................... </tspan><tspan class="value">24/7</tspan>
+<tspan x="20" y="105" class="key">Role</tspan><tspan class="cc"> ................................... </tspan><tspan class="value">abysmal programmer</tspan>
+<tspan x="20" y="125" class="key">Shell</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">VSCode, Rider, Pycharm</tspan>
+<tspan x="20" y="155" class="key">Languages (Active)</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">C#, Python, JavaScript</tspan>
+<tspan x="20" y="175" class="key">Languages (Markup)</tspan><tspan class="cc"> ..................... </tspan><tspan class="value">HTML, CSS</tspan>
+<tspan x="20" y="195" class="key">Languages (Learning)</tspan><tspan class="cc"> ................... </tspan><tspan class="value">Rust, C++</tspan>
+<tspan x="20" y="225" class="key">Hobbies (Software)</tspan><tspan class="cc"> ................... </tspan><tspan class="value">Jailbreaking, gaming, coding</tspan>
+<tspan x="20" y="245" class="key">Hobbies (Hardware)</tspan><tspan class="cc"> ................... </tspan><tspan class="value">PC Building, LTT, Graphics cards</tspan>
+<tspan x="20" y="285" class="prompt">isntrid@linux</tspan>:<tspan class="path">~</tspan>$ <tspan class="command">cat ~/.contact</tspan>
+<tspan x="20" y="315" class="key">discord</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">@isntrid</tspan>
+<tspan x="20" y="335" class="key">email</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">ridn123321@gmail.com</tspan>
+<tspan x="20" y="375" class="prompt">isntrid@linux</tspan>:<tspan class="path">~</tspan>$ <tspan class="command">gh stats --user isntrid</tspan>
+<tspan x="20" y="405" class="key">repos</tspan><tspan class="cc"> ......... </tspan><tspan class="value">23</tspan> (<tspan class="key">contributed</tspan>: <tspan class="value">190</tspan>) | <tspan class="key">stars</tspan><tspan class="cc"> ................... </tspan><tspan class="value">3</tspan>
+<tspan x="20" y="425" class="key">commits</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">420</tspan> | <tspan class="key">followers</tspan><tspan class="cc"> ............. </tspan><tspan class="value">5</tspan>
 </text>
 </svg>
