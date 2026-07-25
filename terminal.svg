@@ -32,7 +32,7 @@ text, tspan {white-space: pre;}
 <tspan x="20" y="315" class="key">discord</tspan><tspan class="cc"> ................................ </tspan><tspan class="value">@isntrid</tspan>
 <tspan x="20" y="335" class="key">email</tspan><tspan class="cc"> .................................. </tspan><tspan class="value">ridn123321@gmail.com</tspan>
 <tspan x="20" y="375" class="prompt">isntrid@linux</tspan>:<tspan class="path">~</tspan>$ <tspan class="command">gh stats --user isntrid</tspan>
-<tspan x="20" y="405" class="key">repos</tspan><tspan class="cc"> ......... </tspan><tspan class="value">23</tspan> (<tspan class="key">contributed</tspan>: <tspan class="value">190</tspan>) | <tspan class="key">stars</tspan><tspan class="cc"> ................... </tspan><tspan class="value">3</tspan>
+<tspan x="20" y="405" class="key">repos</tspan><tspan class="cc"> ....... </tspan><tspan class="value">23</tspan> (<tspan class="key">contributed</tspan>: <tspan class="value">190</tspan>) | <tspan class="key">stars</tspan><tspan class="cc"> ................... </tspan><tspan class="value">3</tspan>
 <tspan x="20" y="425" class="key">commits</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">420</tspan> | <tspan class="key">followers</tspan><tspan class="cc"> ............. </tspan><tspan class="value">5</tspan>
 </text>
 </svg>
