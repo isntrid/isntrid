@@ -1,2 +1,1 @@
-![Terminal Stats](terminal.svg?v=pipboy)
-
+![Terminal Stats](terminal.svg)
