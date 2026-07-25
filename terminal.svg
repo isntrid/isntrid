@@ -19,8 +19,8 @@ text, tspan {white-space: pre; text-shadow: 0 0 8px rgba(30,255,0,0.6);}
 <rect width="800px" height="460px" fill="#000000" rx="6"/>
 <text x="20" y="35" fill="#1eff00">
 <tspan class="prompt">isntrid@linux</tspan>:<tspan class="path">~</tspan>$ <tspan class="command">neofetch --stdout</tspan>
-<tspan x="20" y="65" class="key">OS</tspan><tspan class="cc"> ........................................ </tspan><tspan class="value">Windows 11, Linux, MacOS</tspan>
-<tspan x="20" y="85" class="key">Uptime</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">24/7</tspan>
+<tspan x="20" y="65" class="key">OS</tspan><tspan class="cc"> ....................................... </tspan><tspan class="value">Windows 11, Linux, MacOS</tspan>
+<tspan x="20" y="85" class="key">Uptime</tspan><tspan class="cc"> ................................... </tspan><tspan class="value">24/7</tspan>
 <tspan x="20" y="105" class="key">Role</tspan><tspan class="cc"> ..................................... </tspan><tspan class="value">abysmal programmer</tspan>
 <tspan x="20" y="125" class="key">Shell</tspan><tspan class="cc"> .................................... </tspan><tspan class="value">VSCode, Rider, Pycharm</tspan>
 <tspan x="20" y="155" class="key">Languages (Active)</tspan><tspan class="cc"> ....................... </tspan><tspan class="value">C#, Python, JavaScript</tspan>
